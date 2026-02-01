@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hammad Memon</h1>
+<h1 align="center"> Hammad Memon</h1>
 <h3 align="center">Aspiring Software Engineer | Full Stack Developer | Aptech Student</h3>
 
 <p align="center">
