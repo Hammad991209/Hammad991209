@@ -4,7 +4,7 @@
 
 ---
 
-## 🔧 Skills  
+## 🛠️ Skills  
 ![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)  
 ![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)  
@@ -17,18 +17,17 @@
 ---
 
 ## 📂 Projects  
-- 🌐 [Netlify Site](https://hammad-portfolio.netlify.app) — Responsive website hosted on Netlify  
-- 📄 CRUD App — PHP + MySQL (Edit/Delete functionality)  
+- 🌐 [Netlify Portfolio](https://hammad-portfolio.netlify.app) — Responsive website hosted on Netlify  
+- 📄 CRUD App — PHP + MySQL (Full CRUD functionality)  
 - 🛒 E-commerce (in progress) — Laravel + Admin Panel  
 
 ---
 
 ## 📫 Contact Me  
-[![Netlify](https://img.shields.io/badge/Netlify-000?style=for-the-badge&logo=netlify&logoColor=white)](https://hammad-portfolio.netlify.app)  
-[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hammadmemon360@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hammad-memon-125922338)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hammad991209)  
+📧 *Email:* hammadmemon360@gmail.com  
+📱 *Phone:* 0310‑3358170 / 0349‑6538974  
+🔗 *LinkedIn:* [Hammad Memon](https://linkedin.com/in/hammad-memon-125922338)  
+🌐 *GitHub:* [Hammad991209](https://github.com/Hammad991209)  
+🌍 *Portfolio:* [Netlify Site](https://hammad-portfolio.netlify.app)  
+  
 
----
-
-✨ "Discipline and code go hand in hand — I write clean, responsive, and purposeful code."
