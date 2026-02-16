@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Hammad Memon  
 
-<!--
-**Hammad991209/Hammad991209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Software Engineer | Web Developer | Aptech Student  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills  
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)  
+![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)  
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap)  
+![PHP](https://img.shields.io/badge/PHP-darkblue?logo=php)  
+![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel)  
+![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)  
+
+---
+
+## 📂 Projects  
+- 🌐 [Netlify Site](https://hammad-portfolio.netlify.app) — Responsive website hosted on Netlify  
+- 📄 CRUD App — PHP + MySQL (Edit/Delete functionality)  
+- 🛒 E-commerce (in progress) — Laravel + Admin Panel  
+
+---
+
+## 📫 Contact Me  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://hammad-portfolio.netlify.app)  
+[![Website](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hammad-portfolio.netlify.app)  
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hammadmemon360@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hammad-memon-125922338)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hammad991209)  
+
+---
+
+✨ "Discipline and code go hand in hand — I write clean, responsive, and purposeful code."
