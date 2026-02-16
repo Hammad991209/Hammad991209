@@ -12,6 +12,7 @@
 ![PHP](https://img.shields.io/badge/PHP-darkblue?logo=php)  
 ![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel)  
 ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)  
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)  
 
 ---
 
@@ -23,8 +24,7 @@
 ---
 
 ## 📫 Contact Me  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://hammad-portfolio.netlify.app)  
-[![Website](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hammad-portfolio.netlify.app)  
+[![Netlify](https://img.shields.io/badge/Netlify-000?style=for-the-badge&logo=netlify&logoColor=white)](https://hammad-portfolio.netlify.app)  
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hammadmemon360@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hammad-memon-125922338)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hammad991209)  
