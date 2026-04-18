@@ -17,7 +17,6 @@
 ---
 
 ## 📂 Projects  
-- 🌐 [Netlify Portfolio](https://hammad-portfolio.netlify.app) — Responsive website hosted on Netlify  
 - 📄 CRUD App — PHP + MySQL (Full CRUD functionality)  
 - 🛒 E-commerce (in progress) — Laravel + Admin Panel  
 
