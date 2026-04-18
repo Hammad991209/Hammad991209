@@ -27,7 +27,6 @@
 📧 *Email:* hammadmemon360@gmail.com  
 📱 *Phone:* 0310‑3358170 / 0349‑6538974  
 🔗 *LinkedIn:* [Hammad Memon](https://linkedin.com/in/hammad-memon-125922338)  
-🌐 *GitHub:* [Hammad991209](https://github.com/Hammad991209)  
-🌍 *Portfolio:* [Netlify Site](https://hammad-portfolio.netlify.app)  
+🌐 *GitHub:* [Hammad991209](https://github.com/Hammad991209)   
   
 
