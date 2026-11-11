@@ -1,31 +1,29 @@
-# 👋 Hi, I'm Hammad Memon  
+# Hi, I'm Hammad Memon 👋
 
-🚀 Aspiring Software Engineer | Web Developer | Aptech Student  
+**Aspiring Software Developer | ADSE Student | Hyderabad, Pakistan**
 
----
+I'm currently studying Advanced Diploma in Software Engineering (ADSE) at Aptech Hyderabad. I enjoy learning software and web development and improving my skills through practical work.
 
-## 🛠️ Skills  
-![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)  
-![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)  
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap)  
-![PHP](https://img.shields.io/badge/PHP-darkblue?logo=php)  
-![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel)  
-![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)  
-![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)  
+## Skills I'm Learning & Practising
 
----
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap
+- **Backend:** PHP, Laravel, C#
+- **Databases:** MySQL
+- **Other:** WordPress, Git, GitHub, ASP.NET / .NET
 
-## 📂 Projects  
-- 📄 CRUD App — PHP + MySQL (Full CRUD functionality)  
-- 🛒 E-commerce (in progress) — Laravel + Admin Panel  
+## Projects
 
----
+- **Personal Portfolio** — A responsive portfolio website built with HTML, CSS and JavaScript.
+- **GiveAid (Academic Group Project)** — Worked on the Programmes module using ASP.NET Core as part of a group eProject.
 
-## 📫 Contact Me  
-📧 *Email:* hammadmemon360@gmail.com  
-📱 *Phone:* 0349-6538974  
-🔗 *LinkedIn:* [Hammad Memon](https://linkedin.com/in/hammad-memon-125922338)  
-🌐 *GitHub:* [Hammad991209](https://github.com/Hammad991209)  
-🚀 *Netlify:* [Hammad Memon](https://hammadmemon-portfolio.netlify.app/)
+## Education
 
+- **Advanced Diploma in Software Engineering (ADSE)** — Aptech Hyderabad, In Progress
+- **Intermediate (Pre-Engineering), 2024** — Government College Hyderabad
+- **Matriculation, 2022** — Noor Public High School
+
+## Connect With Me
+
+- **Email:** [hammadmemon360@gmail.com](mailto:hammadmemon360@gmail.com)
+- **LinkedIn:** [Hammad Memon](https://www.linkedin.com/in/hammad-memon-125922338/)
+- **Portfolio:** [hammadmemon-portfolio.netlify.app](https://hammadmemon-portfolio.netlify.app/)
