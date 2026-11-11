@@ -27,9 +27,6 @@ I'm currently studying Advanced Diploma in Software Engineering (ADSE) at Aptech
   <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" />
 </p>
 
-## 💻 Projects
-
-- **GiveAid (Academic Group Project)** — Worked on the Programmes module using ASP.NET Core as part of a group eProject.
 
 ## 🎓 Education
 
