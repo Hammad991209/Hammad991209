@@ -25,5 +25,6 @@ I'm currently studying Advanced Diploma in Software Engineering (ADSE) at Aptech
 ## Connect With Me
 
 - **Email:** [hammadmemon360@gmail.com](mailto:hammadmemon360@gmail.com)
+- **Phone:** 0349-6538974
 - **LinkedIn:** [Hammad Memon](https://www.linkedin.com/in/hammad-memon-125922338/)
 - **Portfolio:** [hammadmemon-portfolio.netlify.app](https://hammadmemon-portfolio.netlify.app/)
